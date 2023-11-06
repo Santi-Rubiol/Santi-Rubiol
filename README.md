@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning I am an autodidact person, very curious and always willing to learn new things from different fields.
 - 📫 How to reach me:
 - ✉️ gmail: santirubiol14@gmail.com
-- LinkedIn: https://www.linkedin.com/in/santiago-rubiol-87210022b/
+- LinkedIn: https://www.linkedin.com/in/santiago-rubiol/
 - 📞 celphone number: +54 381 6204 123
 
 <!---
