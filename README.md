@@ -1,11 +1,10 @@
 - 👋 Hi, i'm Santiago, a Full Stack Developer. 
 - 👀 I’m interested in resolve problems, using my brain. I love programming and maths.
-- 🌱 I’m currently learning I am an autodidact person,
-- very curious and always willing to learn new things from different fields.
+- 🌱 I’m currently learning I am an autodidact person, very curious and always willing to learn new things from different fields.
 - 📫 How to reach me:
-  ✉️: santirubiol14@gmail.com
-  LinkedIn: https://www.linkedin.com/in/santiago-rubiol-87210022b/
-  📞: +54 381 6204 123
+- ✉️ gmail: santirubiol14@gmail.com
+- LinkedIn: https://www.linkedin.com/in/santiago-rubiol-87210022b/
+- 📞 celphone number: +54 381 6204 123
 
 <!---
 Santi-Rubiol/Santi-Rubiol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
